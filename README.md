@@ -1,5 +1,5 @@
 Plant Disease Classification
-A deep learning system that identifies plant diseases from leaf images. The model predicts the disease type regardless of the host plant species, 
+A deep learning system that identifies plant diseases from leaf images. The model predicts the disease type regardless of the host plant species,
 classifying images into one of 40 disease categories.
 
 What it does
